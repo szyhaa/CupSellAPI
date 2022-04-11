@@ -1,7 +1,7 @@
 #
 # PYTHON CupSell API
 #
-# Coded by RayZor.pl
+# Coded by szyha.dev
 #
 import time, json, hmac, hashlib, urllib, pycurl, StringIO, sys
 
